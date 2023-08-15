@@ -6,5 +6,5 @@ This program is a part of upgrad assignment wich will take the input string from
 ### RUN
 * clone this public repository
 * $ cd input-length-java
-* mvn install
-* java -jar target/my-app-1.0-SNAPSHOT.jar 
+* $ mvn install
+* $ java -jar target/my-app-1.0-SNAPSHOT.jar 
